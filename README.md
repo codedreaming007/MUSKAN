@@ -20,9 +20,6 @@ Live a stress-free life.
 - [Logo](#logo)
 - [Screenshots](#screenshots)
 - [Technology Stack](#tech_stack)
-- [Open-Source program](#open_source_programs)
-- [Project Admin](#admin)
-- [Contributors](#contributors)
 
 ## 🔎 Problems it Solves: <a name = "problem_statement"></a>
 - Gives mental peace 🧘‍♀️
@@ -61,39 +58,6 @@ For contributing guidelines and standards, visit [contributing.md](https://githu
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
-## Open Source Programs  <a name = "open_source_programs"></a>
- 
-<table>
-<tr>
- <td align="center">
-<a href="https://ssoc.devfolio.co/"><img src="https://user-images.githubusercontent.com/72400676/182021806-e7439fdd-8f9b-46a6-a1da-0bf731bbe379.png" width=100px height=100px /><br /><sub><b>Social Summer Of Code 2022</b></sub></a>
- </td>
- <td align="center">
-<a href="https://hacktoberfest.com/"><img src="https://user-images.githubusercontent.com/79099734/195970153-ee19d55b-20fc-4ddb-a91d-000773699c37.png" width=100px height=100px /><br /><sub><b>Hacktoberfest</b></sub></a>
- </td>
- </tr>
-</table>
-
-## 😎 Project Admin <a name = "admin"></a>
-
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/Susmita-Dey"><img src="https://avatars.githubusercontent.com/u/79099734?v=4" width="100px;" alt=""/><br /><sub><b>Susmita Dey</b></sub></a></td>
-  </tr>
-</table>
-
-<h2>Project Contributors⭐</h2>   <a name = "contributors"></a>
-<table align="center">
-<tr>
-<td>
-<a href="https://github.com/Susmita-Dey/Sukoon/graphs/contributors" align="center">
-  <img src="https://contrib.rocks/image?repo=Susmita-Dey/Sukoon" /> 
-</a>
-</td>
-</tr>
-</table>
-
 ---
 
 <p align="center">
